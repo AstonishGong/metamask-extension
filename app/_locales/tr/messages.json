@@ -1,4 +1,49 @@
 {
+  "QRHardwareInvalidTransactionTitle": {
+    "message": "Hata"
+  },
+  "QRHardwareMismatchedSignId": {
+    "message": "Uyumsuz işlem verisi. Lütfen işlem ayrıntılarını kontrol edin."
+  },
+  "QRHardwarePubkeyAccountOutOfRange": {
+    "message": "Başka hesap yok. Aşağıda listelenmeyen başka bir hesaba erişmek istiyorsanız lütfen donanım cüzdanınızı yeniden bağlayın ve seçin."
+  },
+  "QRHardwareScanInstructions": {
+    "message": "QR kodunu kameranızın önüne getirin. Ekran bulanık, ancak bu okumayı etkilemeyecektir."
+  },
+  "QRHardwareSignRequestCancel": {
+    "message": "Reddet"
+  },
+  "QRHardwareSignRequestDescription": {
+    "message": "Cüzdanınızla imzaladıktan sonra imzayı almak için \"İmza Al\" öğesine tıklayın"
+  },
+  "QRHardwareSignRequestGetSignature": {
+    "message": "İmza Al"
+  },
+  "QRHardwareSignRequestSubtitle": {
+    "message": "Cüzdanınızı QR kodu ile tarayın"
+  },
+  "QRHardwareSignRequestTitle": {
+    "message": "İmza İste"
+  },
+  "QRHardwareUnknownQRCodeTitle": {
+    "message": "Hata"
+  },
+  "QRHardwareUnknownWalletQRCode": {
+    "message": "Geçersiz QR kodu. Lütfen donanım cüzdanın senkronizasyon QR kodunu tarayın."
+  },
+  "QRHardwareWalletImporterTitle": {
+    "message": "QR Kodu Tara"
+  },
+  "QRHardwareWalletSteps1Title": {
+    "message": "QR Tabanlı Donanım Cüzdan"
+  },
+  "about": {
+    "message": "Hakkında"
+  },
+  "aboutSettingsDescription": {
+    "message": "Sürüm, destek merkezi ve iletişim bilgileri"
+  },
   "account": {
     "message": "Hesap"
   },
@@ -10,6 +55,9 @@
   },
   "addToken": {
     "message": "Jeton ekle"
+  },
+  "advanced": {
+    "message": "Gelişmiş"
   },
   "amount": {
     "message": "Tutar"
@@ -218,6 +266,9 @@
     "message": "Kovan Test Ağı"
   },
   "learnMore": {
+    "message": "Daha fazla bilgi."
+  },
+  "learnMoreUpperCase": {
     "message": "Daha fazla bilgi."
   },
   "likeToImportTokens": {
